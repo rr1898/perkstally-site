@@ -1,0 +1,5 @@
+title: PerksTally
+description: Track the credits and benefits that come with your credit cards, and use them before they expire.
+# Repo notes, not a page.
+exclude:
+  - README.md
